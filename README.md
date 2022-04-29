@@ -1,6 +1,6 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 1: Civic data analyses
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 1: Civic data analysis
 
-## Due July 26th @ 9am
+## Due May 10th @10am
 
 ## Business Case
 
@@ -14,7 +14,9 @@ Also unfortunately, that is the entirety of what you've been told. And the mayor
 
 ## Directions
 
-This project is focused on exploratory data analysis, aka "EDA". EDA is an essential part of the data science analysis pipeline. Failure to perform EDA before modeling is almost guaranteed to lead to bad models and faulty conclusions. What you do in this project are good practices for all projects going forward, especially those after this bootcamp!
+This project is focused on exploratory data analysis, aka "EDA". 
+
+EDA is an essential part of the data science analysis pipeline. Failure to perform EDA before modeling is almost guaranteed to lead to bad models and faulty conclusions. What you do in this project are good practices for all projects going forward, especially those after this bootcamp!
 
 Spend your time trying to understand your data, through both summary statistics and visualization. By the end, you will want to be familiar enough with the datasets that you can think of [testable hypotheses][ps] that could point in specific policy directions.
 
@@ -36,7 +38,7 @@ We will be looking for the following things:
     - Form hypotheses and justify them with solid statistical testing in NumPy
     - Visualize and interpret your plots using Matplotlib and Seaborn
 
-- You will also [present your findings][presentation] on July 26th
+- You will also [present your findings][presentation] on May 10th
     - Assume you are presenting to the mayor (i.e., a non-technical audience)
     - You have up to **4 minutes** (absolutely no longer!)
     - You can choose to present on either or both tests
@@ -49,11 +51,9 @@ We will be looking for the following things:
 
 ### Useful Resources
 
-- Here's a [cheatsheet](https://chrisalbon.com/code/python/data_wrangling/pandas_dataframe_descriptive_stats/) of descriptive statistics methods in Pandas
-
-- Making good plots can take a lot of trial-and-error (especially with matplotlib). The [seaborn](http://seaborn.pydata.org/examples/) and [matplotlib](https://matplotlib.org/stable/gallery/index.html) example galleries may help you find the right code, and decide what you want to do in the first place
-
-- Inferential statistics and hypothesis testing can get very nuanced. It is okay to violate some of the assumptions underlying the methods you've learned. But be explicit about why you've chosen a particular method, and what the drawbacks may be
+- [Pandas cheatsheet: descriptive statistics](https://chrisalbon.com/code/python/data_wrangling/pandas_dataframe_descriptive_stats/)
+- [Matplotlib examples gallery](https://matplotlib.org/stable/gallery/index.html)
+- [Seaborn examples gallery](http://seaborn.pydata.org/examples/)
 
 ---
 
