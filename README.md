@@ -1,18 +1,17 @@
 # Project 1: SAT & ACT Analysis Overview
 
 ## Contents:
--Problem Statement
--Datasets to be Used
--Executive Summary
--Data Dictionary
--Conclusions and recommendations
--Possible hypotheses for future study
+- Problem Statement
+- Datasets to be Used
+- Executive Summary
+- Data Dictionary
+- Conclusions and recommendations
+- Possible hypotheses for future study
 
 ## Problem Statement
 ACT and SAT are two exams which are accepted by various colleges across USA for acceptance into various degree programmes. Officially speaking, there is no difference between difficulty levels of ACT and SAT,so ideally speaking the participation rates of the two should be comparable across staes and years. We would like to see whether this is true or not based on the data available. What are the broad trends in the SAT and ACT participation rates across the various states and years?Which majors have highest and least participation in SAT?  
 
 ## Datasets to be Used
-
 1. act_2017.csv
 2. act_2018.csv
 3. act_2019.csv
@@ -26,7 +25,7 @@ ACT and SAT are two exams which are accepted by various colleges across USA for 
 ## Executive Summary
 In this analysis above nine datasets have been used. They were imported and cleaned for snake case column names and making numeric values where they are expected in different datasets.
 
-    A basic analysis was done on all of the datsets imported which includes descriptive statistics, top 10 and bottom 10 highest participation rates states across all years, when possible highest and lowest scoring states have been also determined and mentioned.
+A basic analysis was done on all of the datsets imported which includes descriptive statistics, top 10 and bottom 10 highest participation rates states across all years, when possible highest and lowest scoring states have been also determined and mentioned.
     
 Some of the findings are as follows:
 
