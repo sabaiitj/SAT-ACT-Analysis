@@ -115,7 +115,6 @@ increasing the number of chances among others.**
 ***H3: States with more blue collared jobs are associated with greater SAT participation*** **
 
 ## References:
-
 1. https://www.princetonreview.com/college/sat-act
 2. https://www.usnews.com/education/best-colleges/articles/act-vs-sat-how-to-decide-which-test-to-take
 3. https://blog.prepscholar.com/act-vs-sat
