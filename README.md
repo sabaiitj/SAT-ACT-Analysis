@@ -29,14 +29,13 @@ A basic analysis was done on all of the datsets imported which includes descript
     
 Some of the findings are as follows:
 
-1.Minnesotta consistently has highest composite score for years 2017,
-  2018 and 2019.
-2. Alaska needs to increase its participation rate,probably the   occupation opportunities do not require a college degree. this needs to be improved.
-3. In general higher SAT participation rates are associated with lower ACT participation rate for a specific state, although this is not a hard rule.
+- Minnesotta consistently has highest composite score for years 2017, 2018 and 2019.
+- Alaska needs to increase its participation rate,probably the   occupation opportunities do not require a college degree. this needs to be improved.
+- In general higher SAT participation rates are associated with lower ACT participation rate for a specific state, although this is not a hard rule.
 e.g., Florida, Hawaii, North Carolina and South Carolina have ACT and SAT participation rates both over 50% for year 2019
-4. SAT test is more popular in California
-5. Average ACT participation is consistently higher than SAT participation.
-6. SAT participation has gone up each year while ACT participation has gone down.
+- SAT test is more popular in California
+- Average ACT participation is consistently higher than SAT participation.
+- SAT participation has gone up each year while ACT participation has gone down.
 
 ## Data Dictionary
 
